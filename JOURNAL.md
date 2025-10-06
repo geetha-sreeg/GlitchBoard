@@ -25,3 +25,14 @@ Here's a pic of what I've finished so far :)
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzA1LCJwdXIiOiJibG9iX2lkIn19--d7766f567316a17d95b86181cdd970fcacb9ac6a/image.png)![image.png]  
 
+## 10/6/2025 - Finished the crystal oscillator  
+
+I finished working on the crystal oscillator! I also corrected some errors that I found when I ran the ERC in KiCad. 
+
+I already finished reading the guide and it said there would be around 16 errors in the final schematic, so after running the ERC, I figured out what these were and I corrected them. 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzA4LCJwdXIiOiJibG9iX2lkIn19--6c3813e5ea8ad2cee7ee8d4d1c2d20721ce4cfb4/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzEwLCJwdXIiOiJibG9iX2lkIn19--6d280e0c9de890529fb1877d7e35a361ca48e3fa/image.png)
+
+
+  
+
